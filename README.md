@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Franco Gabrielleschi
 
-🎯 **Analista en Sistemas** y **Analista Funcional** con experiencia en:
+🎯 **Analista en Sistemas**, **Analista Funcional**  y ** Full Stack dev** con experiencia en:
 - Relevamiento de requerimientos
 - Redacción de historias de usuario
 - Modelado UML
