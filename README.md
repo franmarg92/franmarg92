@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Franco Gabrielleschi
 
-<!--
-**franmarg92/franmarg92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista en Sistemas** y **Analista Funcional** con experiencia en:
+- Relevamiento de requerimientos
+- Redacción de historias de usuario
+- Modelado UML
+- Metodologías ágiles (Scrum)
 
-Here are some ideas to get you started:
+💼 Me formé como **Scrum Master** y **Product Owner**, potenciando mi liderazgo y gestión en equipos multidisciplinarios. Utilizo herramientas como **Jira** y **Trello** para optimizar la entrega de soluciones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologías
+
+### Frontend
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### ORMs
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
+
+### Control de versiones
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 🚀 Sobre mí
+
+💬 Me destaco por mi **comunicación efectiva**, **orientación a soluciones** y **compromiso con la innovación tecnológica**.  
+📚 Siempre en constante formación, busco adaptarme a las nuevas demandas del sector y aportar valor mediante soluciones eficientes y escalables.
+
+---
+
+## 🌐 Portafolio
+
+🔗 [Visita mi portafolio](https://franmarg92.github.io/portfolio/)
+
+---
+
+## 📫 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/francogabrielleschi/)
+- 📧 gabrielleschifranco@gmail.com
+
+---
+
+> Gracias por visitar mi perfil 👨‍💻 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
