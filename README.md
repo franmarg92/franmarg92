@@ -43,6 +43,12 @@
 
 ---
 
+## 🧩 Proyecto destacado
+
+🔍 Participé en el desarrollo de la **[Incubadora NOC](https://github.com/ProyectoXAcademy/IncubadoraNOC)**, un proyecto realizado para la empresa **Santex** y la organización **Technology With Purpose Foundation**, en el marco de la **formación de talentos en tecnología** impulsada por **Proyecto X Academy**.
+
+---
+
 ## 🌐 Portafolio
 
 🔗 [Visita mi portafolio](https://franmarg92.github.io/portfolio/)
