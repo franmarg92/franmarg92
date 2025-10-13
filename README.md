@@ -47,7 +47,8 @@
 
 🔍 Participé en el desarrollo de la **[Incubadora NOC](https://github.com/ProyectoXAcademy/IncubadoraNOC)**, un proyecto realizado para la empresa **Santex** y la organización **Technology With Purpose Foundation**, en el marco de la **formación de talentos en tecnología** impulsada por **Proyecto X Academy**.
 
-🚀 Otros proyectos relevantes
+## 🧩 Proyectos Freelance
+
 💎 **[Distinzione](https://distinzionejoyas.com/)** Joyas Desarrollo de e-commerce especializado en joyería, con foco en experiencia visual, navegación intuitiva y performance multiplataforma.
 
 👕 **[Trustown](https://www.trustown.shop/)** Plataforma de venta de indumentaria urbana, con integración de catálogo dinámico, optimización mobile y estructura escalable.
