@@ -1,16 +1,24 @@
 # 👋 ¡Hola! Soy Franco Gabrielleschi
 
-🎯 **Analista en Sistemas**, **Analista Funcional**  y **Full Stack dev** con experiencia en:
-- Relevamiento de requerimientos
-- Redacción de historias de usuario
-- Modelado UML
-- Metodologías ágiles (Scrum)
+🎯 **Analista en Sistemas**, **Analista Funcional** y **Full Stack Developer**, con experiencia en el diseño y desarrollo de soluciones web escalables.
 
-💼 Me formé como **Scrum Master** y **Product Owner**, potenciando mi liderazgo y gestión en equipos multidisciplinarios. Utilizo herramientas como **Jira** y **Trello** para optimizar la entrega de soluciones.
+Trabajo combinando análisis funcional, desarrollo full stack y metodologías ágiles para construir productos digitales robustos y orientados al negocio.
 
 ---
 
-## 💻 Tecnologías
+## 🧠 Perfil profesional
+
+- Relevamiento de requerimientos  
+- Redacción de historias de usuario  
+- Modelado UML  
+- Metodologías ágiles (**Scrum**)  
+
+💼 Formación como **Scrum Master** y **Product Owner**, con foco en liderazgo, planificación y trabajo en equipos multidisciplinarios.  
+Herramientas habituales: **Jira** y **Trello**.
+
+---
+
+## 💻 Stack tecnológico
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
@@ -23,12 +31,19 @@
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+
+### Bases de datos
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ### ORMs
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white)
+
+### Infraestructura & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
 ### Control de versiones
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -38,36 +53,55 @@
 
 ## 🚀 Sobre mí
 
-💬 Me destaco por mi **comunicación efectiva**, **orientación a soluciones** y **compromiso con la innovación tecnológica**.  
-📚 Siempre en constante formación, busco adaptarme a las nuevas demandas del sector y aportar valor mediante soluciones eficientes y escalables.
+Me destaco por mi **comunicación efectiva**, **orientación a la resolución de problemas** y **compromiso con la innovación tecnológica**.  
+📚 Me encuentro en constante formación, adaptándome a nuevas demandas del sector y aportando soluciones eficientes, escalables y mantenibles.
 
 ---
 
-## 🧩 Proyecto destacado
+## 🧩 Proyectos SaaS / Microservicios
 
-🔍 Participé en el desarrollo de la **[Incubadora NOC](https://github.com/ProyectoXAcademy/IncubadoraNOC)**, un proyecto realizado para la empresa **Santex** y la organización **Technology With Purpose Foundation**, en el marco de la **formación de talentos en tecnología** impulsada por **Proyecto X Academy**.
+### 🧠 mymServicios  
+🔗 https://mymserviciosgenerales.com/
 
-## 🧩 Proyectos Freelance
+Marketplace SaaS de servicios presenciales orientado a **prestadores, clientes e inmobiliarias**.  
+Arquitectura basada en **microservicios**, con enfoque en trazabilidad, reputación, evidencia de trabajos y escalabilidad.
 
-💎 **[Distinzione](https://distinzionejoyas.com/)** Joyas Desarrollo de e-commerce especializado en joyería, con foco en experiencia visual, navegación intuitiva y performance multiplataforma.
+---
 
-👕 **[Trustown](https://www.trustown.shop/)** Plataforma de venta de indumentaria urbana, con integración de catálogo dinámico, optimización mobile y estructura escalable.
+### 🚚 SellerGo *(en desarrollo)*  
+🔗 https://www.sellergo.com.ar/
 
-🧠 **[Corefit](https://www.corefit.com.ar/)** Proyecto propio en evolución, centrado en movimiento, salud y fuerza. Branding filosófico-comercial, arquitectura técnica robusta y compatibilidad multiplataforma (PWA/iOS). Incluye app de escaneo QR para registro de presencia.
+Plataforma SaaS de **logística y envíos**, diseñada bajo una **arquitectura de microservicios**.  
+Incluye integración con carriers, gestión de envíos, cuentas corrientes, facturación y escalabilidad para alto volumen de operaciones.
+
+---
+
+## 🧩 Proyectos Freelance / Landing Pages
+
+### 💼 Alucinante Comunicación  
+🔗 https://alucinantecomunicacion.com/
+
+Landing page institucional orientada a presencia digital y captación de clientes.
+
+---
+
+### 🏢 Estudio García & Asociados  
+🔗 https://www.estudiogarciayasociados.com.ar/
+
+Landing page profesional enfocada en identidad visual, claridad de servicios y optimización para dispositivos móviles.
 
 ---
 
 ## 🌐 Portafolio
-
-🔗 [Visita mi portafolio](https://gabrielleschifranco.com)
+🔗 https://gabrielleschifranco.com
 
 ---
 
 ## 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/francogabrielleschi/)
-- 📧 gabrielleschifranco@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/francogabrielleschi/
+- 📧 Email: gabrielleschifranco@gmail.com
 
 ---
 
-> Gracias por visitar mi perfil 👨‍💻 ¡Estoy abierto a nuevas oportunidades y colaboraciones!
+> Gracias por visitar mi perfil 👨‍💻  
+> Estoy abierto a **nuevas oportunidades y colaboraciones**.
