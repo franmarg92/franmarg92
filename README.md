@@ -78,6 +78,20 @@ Incluye integración con carriers, gestión de envíos, cuentas corrientes, fact
 
 ## 🧩 Proyectos Freelance / Landing Pages
 
+
+
+### 💎 **[Distinzione](https://distinzionejoyas.com/)**  
+Desarrollo de e-commerce especializado en joyería, con foco en experiencia visual, navegación intuitiva y performance multiplataforma.
+
+### 👕 **[Trustown](https://www.trustown.shop/)**  
+Plataforma de venta de indumentaria urbana, con integración de catálogo dinámico, optimización mobile y estructura escalable.
+
+### 🧠 **[CoreFit](https://www.corefit.com.ar/)**  
+Proyecto propio en evolución, centrado en movimiento, salud y fuerza.  
+Incluye branding filosófico-comercial, arquitectura técnica robusta y compatibilidad multiplataforma (PWA / iOS).  
+Cuenta con una app de escaneo QR para registro de presencia.
+
+
 ### 💼 Alucinante Comunicación  
 🔗 https://alucinantecomunicacion.com/
 
