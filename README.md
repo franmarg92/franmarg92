@@ -58,7 +58,7 @@ Me destaco por mi **comunicación efectiva**, **orientación a la resolución de
 
 ---
 
-## 🧩 Proyectos SaaS / Microservicios
+## 🧩 Proyectos SaaS 
 
 ### 🧠 mymServicios  
 🔗 https://mymserviciosgenerales.com/
@@ -71,7 +71,7 @@ Arquitectura basada en **microservicios**, con enfoque en trazabilidad, reputaci
 ### 🚚 SellerGo *(en desarrollo)*  
 🔗 https://www.sellergo.com.ar/
 
-Plataforma SaaS de **logística y envíos**, diseñada bajo una **arquitectura de microservicios**.  
+Plataforma SaaS de **logística y envíos**.  
 Incluye integración con carriers, gestión de envíos, cuentas corrientes, facturación y escalabilidad para alto volumen de operaciones.
 
 ---
@@ -80,16 +80,9 @@ Incluye integración con carriers, gestión de envíos, cuentas corrientes, fact
 
 
 
-### 💎 **[Distinzione](https://distinzionejoyas.com/)**  
-Desarrollo de e-commerce especializado en joyería, con foco en experiencia visual, navegación intuitiva y performance multiplataforma.
-
 ### 👕 **[Trustown](https://www.trustown.shop/)**  
 Plataforma de venta de indumentaria urbana, con integración de catálogo dinámico, optimización mobile y estructura escalable.
 
-### 🧠 **[CoreFit](https://www.corefit.com.ar/)**  
-Proyecto propio en evolución, centrado en movimiento, salud y fuerza.  
-Incluye branding filosófico-comercial, arquitectura técnica robusta y compatibilidad multiplataforma (PWA / iOS).  
-Cuenta con una app de escaneo QR para registro de presencia.
 
 
 ### 💼 Alucinante Comunicación  
